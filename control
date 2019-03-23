@@ -1,0 +1,9 @@
+Package: applebetas.ios.tweak.justinpluspro
+Name: JustinPlusPro
+Depends: mobilesubstrate, firmware (>= 10.0)
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Justin + your phone. A match made in heaven.
+Maintainer: AppleBetas
+Author: AppleBetas
+Section: Tweaks
